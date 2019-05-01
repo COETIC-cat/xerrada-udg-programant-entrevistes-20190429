@@ -1,7 +1,11 @@
-# Programant entrevistes i treballant al sector TI
+# xerrada-udg-programant-entrevistes-20190429
 
-Fitxers relacionats amb la presentació realitzada a la Universitat de Girona el dia 29/04/2019 
+Durant la xerrada vàrem parlar de la web www.pluralsight.com. És molt recomanable que la tingueu als vostres favorits, conté cursos tècnics de molt bona qualitat.
 
-A la carpeta regex-vs-iteracions podeu trobar el codi mostrat en la presentació sobre el code review.
+A la carpeta presentació d'aquest repositori trobareu el powerpoint amb gairebé totes les transparències. Esperem que us siguin útils.
 
-Properament es pujaran les transparències amb tots els enllaços en aquest repositori.
+Per qualsevol cosa, em podeu escriure a la meva adreça del col·legi marc.cortada "a" coetic.cat
+
+Molta sort en la vostra trajectòria professional.
+
+Marc Cortada.
